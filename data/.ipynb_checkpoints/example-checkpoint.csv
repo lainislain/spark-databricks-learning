@@ -1,0 +1,11 @@
+name,age,city,signup_date,plan,is_active,spend
+Amina,29,Seattle,2024-01-15,Pro,true,129.50
+Ben,34,Austin,2023-11-02,Basic,false,0.00
+Chen,41,San Jose,2022-06-30,Pro,true,560.00
+Daria,23,Chicago,2024-09-10,Free,true,12.75
+Eli,38,New York,2021-03-22,Enterprise,true,1240.00
+Fatima,31,Denver,2024-05-05,Basic,true,89.99
+Gabe,27,Boston,2023-12-12,Free,false,0.00
+Hiro,45,San Diego,2020-08-19,Enterprise,true,2300.10
+Ines,36,Portland,2022-02-14,Pro,true,410.25
+Jamal,30,Atlanta,2024-07-01,Basic,true,59.00
